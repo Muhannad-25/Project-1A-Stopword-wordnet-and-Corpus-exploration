@@ -121,4 +121,4 @@ Facebook AI Research — FastText Word Embeddings
 
 📬 Contact
 For any questions or clarifications:
-[Your University Email Address]
+mumahdi25@student.oulo.fi
