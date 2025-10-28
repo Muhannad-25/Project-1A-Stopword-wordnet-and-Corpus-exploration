@@ -64,3 +64,62 @@ report/
 │
 requirements.txt
 README.md
+```
+
+---
+
+## 🔧 Installation & Setup
+
+Python ≥ 3.8 is required.
+
+Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+Download NLTK corpora before running:
+```python
+import nltk
+nltk.download('all')
+```
+
+---
+
+## ▶️ How to Run
+
+Launch notebooks one by one:
+```bash
+jupyter notebook notebooks/spec1_stopwords.ipynb
+```
+
+Each notebook automatically exports:
+- CSV files → `artifacts/csv_results/`
+- Figures & heatmaps → `artifacts/figures/`
+
+---
+
+## 📊 Results Snapshot
+
+- Stopwords represent **~40–50%** of high-frequency words across English corpora  
+- Most stopwords are **grammatical function words**  
+- **44%** of English stopwords appear in WordNet  
+- Multilingual similarity varies by morphology and language family  
+- Alternative measures confirm: **frequency alone is insufficient**  
+- Stopwords mostly appear in **neutral** sentences  
+
+Full analysis and all figures are included in the report.
+
+---
+
+## 📚 References
+
+1. S. Sarica and J. Luo, “Stopwords in technical language processing,” *PLOS ONE*, 2021.  
+2. NLTK Corpora & Official Documentation  
+3. Facebook AI Research — FastText Word Embeddings  
+
+---
+
+## 📬 Contact
+
+For questions or feedback:  
+**[Your University Email Address]**
