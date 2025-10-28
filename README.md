@@ -40,11 +40,13 @@ All evidence and outputs are included in the final report and the `artifacts/` d
 
 More detailed explanations are provided inside the report and corresponding notebooks.
 
+
+
 ---
 
 ## 📂 Repository Structure
 
-```
+```text
 notebooks/
 │   ├── spec1_stopwords.ipynb
 │   ├── spec2_pos_wordnet.ipynb
@@ -61,22 +63,19 @@ artifacts/
 │   └── csv_results/
 │
 report/
-│   └── report.pdf
+│   └── report.pdf (or .docx)
 │
 requirements.txt
 README.md
-
----
-
-## 🔧 Installation & Setup
-
-Python ≥ 3.8 required.
+🔧 Installation & Setup
+Python ≥ 3.8 is required.
 
 Install dependencies:
 
-```bash
+bash
+Copy code
 pip install -r requirements.txt
-Download NNLTK corpora before running:
+Download NLTK corpora before running:
 
 python
 Copy code
@@ -97,25 +96,25 @@ Figures & heatmaps → artifacts/figures/
 📊 Results Snapshot
 Stopwords represent ~40–50% of high-frequency words across English corpora
 
-Majority are function words: determiners, pronouns, conjunctions
+Most stopwords are grammatical function words
 
-~44% of English stopwords have WordNet entries
+44% of English stopwords appear in WordNet
 
-Cross-linguistic similarity varies by language family and morphology
+Multilingual similarity varies by morphology and language family
 
-Statistical measures confirm: frequency alone is insufficient
+Alternative measures confirm: frequency alone is insufficient
 
-Sentiment analysis: stopwords mostly appear in neutral contexts
+Stopwords mostly appear in neutral sentences
 
-Full results are documented in the report.
+Full analysis and all figures are included in the report.
 
 📚 References
 S. Sarica and J. Luo, “Stopwords in technical language processing,” PLOS ONE, 2021.
 
-NLTK Corpora & Documentation
+NLTK Corpora & Official Documentation
 
 Facebook AI Research — FastText Word Embeddings
 
 📬 Contact
-For any questions or clarifications:
+For questions or feedback:
 mumahdi25@student.oulo.fi
