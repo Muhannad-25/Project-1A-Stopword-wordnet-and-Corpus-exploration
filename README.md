@@ -45,7 +45,7 @@ More detailed explanations are provided inside the report and corresponding note
 
 ## 📂 Repository Structure
 
-```text
+```
 notebooks/
 │   ├── spec1_stopwords.ipynb
 │   ├── spec2_pos_wordnet.ipynb
@@ -66,8 +66,6 @@ report/
 │
 requirements.txt
 README.md
-
-
 
 ---
 
