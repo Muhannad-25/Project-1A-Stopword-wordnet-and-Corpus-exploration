@@ -2,7 +2,7 @@
 
 **Course:** Natural Language Processing , University of Oulu  
 **Instructor:** Prof. Mourad Oussalah  
-**Student:** Mahdi Muhannad Salah 2504439
+**Student:** Mahdi Muhannad Salah 2504439  
 **Academic Year:** 2025–2026
 
 ---
