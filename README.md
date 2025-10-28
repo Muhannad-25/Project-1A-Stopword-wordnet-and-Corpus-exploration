@@ -45,29 +45,29 @@ More detailed explanations are provided inside the report and corresponding note
 
 ## 📂 Repository Structure
 
-├── notebooks/
-│ ├── spec1_stopwords.ipynb
-│ ├── spec2_pos_wordnet.ipynb
-│ ├── spec3_multilang_fasttext.ipynb
-│ ├── spec4_translation_comparison.ipynb
-│ ├── spec5_overall_similarity.ipynb
-│ ├── spec6_crosslang_jaccard.ipynb
-│ ├── spec7_alt_measures.ipynb
-│ ├── spec8_stopword_connections.ipynb
-│ └── spec9_sentiment.ipynb
+```text
+notebooks/
+│   ├── spec1_stopwords.ipynb
+│   ├── spec2_pos_wordnet.ipynb
+│   ├── spec3_multilang_fasttext.ipynb
+│   ├── spec4_translation_comparison.ipynb
+│   ├── spec5_overall_similarity.ipynb
+│   ├── spec6_crosslang_jaccard.ipynb
+│   ├── spec7_alt_measures.ipynb
+│   ├── spec8_stopword_connections.ipynb
+│   └── spec9_sentiment.ipynb
 │
-├── artifacts/
-│ ├── figures/
-│ └── csv_results/
+artifacts/
+│   ├── figures/
+│   └── csv_results/
 │
-├── report/
-│ └── report.pdf (or .docx)
+report/
+│   └── report.pdf (or .docx)
 │
-├── requirements.txt
-└── README.md
+requirements.txt
+README.md
 
-yaml
-Copy code
+
 
 ---
 
