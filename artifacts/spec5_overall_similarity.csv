@@ -1,0 +1,6 @@
+language,fasttext_code,stopwords_total,in_model,overall_similarity_mean,overall_similarity_std
+german,de,232,231,0.3394,0.1351
+french,fr,157,153,0.2837,0.1531
+italian,it,279,279,0.2557,0.1447
+spanish,es,313,313,0.2454,0.1486
+arabic,ar,701,662,0.1241,0.1137

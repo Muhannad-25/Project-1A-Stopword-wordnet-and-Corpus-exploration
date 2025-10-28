@@ -1,0 +1,6 @@
+language,code,src_stopwords,translated_unique,english_reference,overlap,union,jaccard,csv_translated
+german,de,232,122,198,85,235,0.3617,spec4_de_translated_stopwords.csv
+spanish,es,313,93,198,64,227,0.2819,spec4_es_translated_stopwords.csv
+italian,it,279,81,198,59,220,0.2682,spec4_it_translated_stopwords.csv
+french,fr,157,72,198,51,219,0.2329,spec4_fr_translated_stopwords.csv
+arabic,ar,701,330,198,70,458,0.1528,spec4_ar_translated_stopwords.csv

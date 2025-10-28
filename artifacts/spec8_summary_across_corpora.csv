@@ -1,0 +1,6 @@
+corpus,tokens_alpha,unique_stopwords_seen,pairs_nonzero,total_links,sum_degrees,top_pair_pmi,top_pair_pmi_val,top_pair_co_count
+brown,981716,137,6581,785884,1571768,o-o,6.099,4
+gutenberg,2135400,152,8273,2077594,4155188,y-yours,5.142,2
+webtext,306055,150,5572,218632,437264,yourself-yourselves,5.846,2
+nps_chat,34297,127,2291,20182,40364,by-himself,4.947,6
+reuters,1327141,146,5272,573754,1147508,why-yourself,5.825,2

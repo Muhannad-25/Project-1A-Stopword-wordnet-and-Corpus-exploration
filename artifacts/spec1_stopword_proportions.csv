@@ -1,0 +1,4 @@
+Corpus,Overlap,TopN,Ratio,Ratio %
+WebText,92,198,0.46464646464646464,46.46
+Senseval-2,99,198,0.5,50.0
+Treebank-as-proxy-for-NomBank,81,198,0.4090909090909091,40.91

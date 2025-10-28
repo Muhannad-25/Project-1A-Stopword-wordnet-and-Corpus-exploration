@@ -1,0 +1,6 @@
+language,fasttext_code,stopwords_total,in_model,pairs,hist_png
+arabic,ar,701,662,218791,spec3_ar_similarity_hist.png
+french,fr,157,153,11628,spec3_fr_similarity_hist.png
+spanish,es,313,313,48828,spec3_es_similarity_hist.png
+german,de,232,231,26565,spec3_de_similarity_hist.png
+italian,it,279,279,38781,spec3_it_similarity_hist.png
