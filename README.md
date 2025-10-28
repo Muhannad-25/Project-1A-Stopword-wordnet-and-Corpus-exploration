@@ -61,7 +61,7 @@ artifacts/
 │   └── csv_results/
 │
 report/
-│   └── report.pdf (or .docx)
+│   └── report.pdf
 │
 requirements.txt
 README.md
