@@ -2,14 +2,14 @@
 
 # Project 1A – Stopword, WordNet, and Corpus Exploration
 
-**Course:** Natural Language Processing (CS276B), University of Oulu  
+**Course:** Natural Language Processing and Text Mining Course, University of Oulu  
 **Instructor:** Prof. Mourad Oussalah  
 **Student:** Mahdi Muhannad Salah 2504439
 **Academic Year:** 2025–2026
 
 ---
 
-## 📌 Project Summary
+##  Project Summary
 
 This project investigates the linguistic role of stopwords across several corpora and languages.  
 Although stopwords are commonly removed due to their limited semantic value, this work
