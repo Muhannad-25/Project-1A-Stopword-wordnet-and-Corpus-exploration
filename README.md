@@ -4,8 +4,8 @@
 
 **Course:** Natural Language Processing (CS276B), University of Oulu  
 **Instructor:** Prof. Mourad Oussalah  
-**Student:** [Your Full Name]  
-**Academic Year:** 2024–2025
+**Student:** Mahdi Muhannad Salah 2504439
+**Academic Year:** 2025–2026
 
 ---
 
