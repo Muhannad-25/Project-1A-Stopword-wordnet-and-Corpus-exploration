@@ -119,6 +119,18 @@ Full analysis and all figures are included in the report.
 
 ---
 
+---
+
+## 📁 FastText Models Notice
+
+FastText pretrained models are not included in this repository due to their very large size.  
+Please download the required `.bin` or `.bin.gz` files from the official website:
+
+➡️ https://fasttext.cc/docs/en/crawl-vectors.html
+
+After downloading, place the files inside the following directory:
+
+
 ## 📬 Contact
 
 For questions or feedback:  
