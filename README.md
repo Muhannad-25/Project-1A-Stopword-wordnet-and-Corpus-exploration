@@ -1,4 +1,3 @@
-# Project-1A-Stopword-wordnet-and-Corpus-exploration
 
 # Project 1A – Stopword, WordNet, and Corpus Exploration
 
